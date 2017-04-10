@@ -44,7 +44,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HolidayApi\HolidayApi.NET.csproj">
+    <ProjectReference Include="..\HolidayApi.NET\HolidayApi.NET.csproj">
       <Project>{93c28e62-e142-4f5c-b18a-a6ec5fb31443}</Project>
       <Name>HolidayApi.NET</Name>
     </ProjectReference>
